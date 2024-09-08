@@ -1,7 +1,6 @@
 import React from 'react';
 
 const Chatbot = () => {
-    // Your chatbot component code goes here
 
     return (
         <div>
